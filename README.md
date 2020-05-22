@@ -1,1 +1,1 @@
-# template-front-end-project-webpack
+# template-front-end-project-webpack-bulma
